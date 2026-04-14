@@ -1,5 +1,5 @@
 public class Utils {
     public static String getMessage() {
-        return "Utilitaire ajouté par Zainab";
+        return "Utilitaire ajouté pour rebase";
     }
 }
